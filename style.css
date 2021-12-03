@@ -1,0 +1,62 @@
+@import url(banner.css);
+@import url(button.css);
+@import url(cards.css);
+
+
+
+h1{
+	color: black;
+	text-align: center;
+	font-family: garamond;
+
+}
+h2{
+	text-align: center;
+	font-family: garamond; 
+
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	font-family: times new roman;
+}
+
+body{
+	margin: 0;
+	text-align: center;
+}
+
+.comments{
+	background-color: lavenderblush;
+	padding: 30px; 
+	margin-bottom: 30px;
+}
+
+.footer{
+	background-color: lavenderblush;  
+}
+
+.footer p {
+	margin: 0;
+	padding: 50px;  
+}
+
+.navbarre{
+	padding: 0px 0px;
+}
+
+.logo {
+	padding: 0px 0px;
+	margin: 0px; 
+}
+
+.navlist li {
+	display: inline;
+}
+
+.navlist {
+	padding:  0;
+}
